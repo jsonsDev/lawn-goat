@@ -11,6 +11,16 @@ ul {
     gap: 18px;
 }
 
+img {
+    align-self: center;
+    border-radius: 4px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 48px;
+}
+
 .links a {
     text-decoration: none;
     color: #ffffff;
@@ -55,7 +65,20 @@ ul {
     height: auto;
 }
 
-img {
-    align-self: center;
-    border-radius: 4px;
+.second {
+    padding: 80px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.services {
+    display: flex;
+    flex-flow: row wrap;
+    text-align: center;
+    gap: 42px;
+}
+
+.service {
+    max-width: 200px;
 }
