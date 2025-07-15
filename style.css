@@ -101,3 +101,34 @@ h2 {
     font-weight: 700;
     align-self: flex-end;
 }
+
+.fourth {
+    padding: 80px 160px;
+    display: flex;
+    justify-content: center;
+}
+
+.cta {
+    background-color: #688C4F;
+    color: #ffffff;
+    border-radius: 4px;
+    padding: 24px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 48px;
+}
+
+.cta-headline {
+    font-weight: 700;
+}
+
+.cta-right {
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: 700;
+    border: 3px solid #ffffff;
+    border-radius: 4px;
+    flex-shrink: 0;
+    padding: 12px 24px;
+}
