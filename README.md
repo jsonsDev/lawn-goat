@@ -1,6 +1,6 @@
 # LawnGoat Landscaping
 
-LawnGoat Landscaping ([view project](JsonsDev.github.io/lawn-goat)) is a ficticious company I created to add a little extra to The Odin Project's (TOP) first [landing page assignment](https://www.theodinproject.com/lessons/foundations-landing-page). 
+LawnGoat Landscaping ([view project](https://JsonsDev.github.io/lawn-goat)) is a ficticious company I created to add a little extra to The Odin Project's (TOP) first [landing page assignment](https://www.theodinproject.com/lessons/foundations-landing-page). 
 
 This project was part of TOP's section on Flexbox Layout in the Foundations Course. It required an entire web page coded from a design provided (included below).
 
